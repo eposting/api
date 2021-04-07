@@ -1,4 +1,4 @@
-# Eposting's API
+# Eposting's API [Building]
 ## Requirements
 - PHP
 - CURL
